@@ -4,7 +4,7 @@
 
 ###
 
-<p align="left">Meu nome é Tamara, meu propósito é viver de forma correta, lembrando das causas justas. Nem sempre é fácil, pois necessita de vigilância constante.</p>
+<p align="left">Meu nome é Tamara, sou uma desenvolvedora front-end que gosta de desenhar nas horas vagas.</p>
 
 ###
 
